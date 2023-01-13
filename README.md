@@ -10,4 +10,4 @@ string slogan = i believe that sometimes it's the people no one expects anything
                 that do the things no one can imagine;
  ~~~
 
-![snake gif](https://github.com/Germano-Silva/Germano-Silva/blob/output/github-contribution-grid-snake.svg)
+
