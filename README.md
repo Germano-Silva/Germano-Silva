@@ -3,8 +3,8 @@
 ~~~javascript
 package Germano-Silva;
 public college = Analise_e_Desenvolvimento_de_Sistemas;
-public job = Atos_Brazil;
-currently = student Java, C++, C, Python & JavaScript;
+public job = TATA TCS;
+currently = student Python & Java;
 public author = Alan_Turing;
 string slogan = i believe that sometimes it's the people no one expects anything,
                 that do the things no one can imagine;
