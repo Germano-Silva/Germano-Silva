@@ -8,20 +8,23 @@
 
 Sou um desenvolvedor em início de carreira, com formação em Análise e Desenvolvimento de Sistemas e paixão por ciência e tecnologia. Amo aprender, resolver problemas complexos e criar soluções escaláveis. Meu objetivo atual é crescer como desenvolvedor Back-end e, no futuro, me especializar como Cientista de Dados. Possuo habilidades em **trabalho em equipe**, **resolução de problemas**, **comunicação eficaz** e **pensamento analítico**, que me ajudam a colaborar de maneira eficiente em projetos desafiadores.
 
-## **Hard Skills:**
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Germano-Silva&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" alt="Germano Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germano-Silva&layout=compact&hide_border=true&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## **Hard Skills:**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
 
 ## Projetos Destacados
 
@@ -99,7 +102,19 @@ Sou um desenvolvedor em início de carreira, com formação em Análise e Desenv
 
 - **Ensino Médio Completo**  
   Instituto Federal do Paraná (IFPR)  
-  Conclusão: 2015  
+  Conclusão: 2015
+
+### Grupos Acadêmicos e Projetos de Extensão
+- **Grupo de Estudos em Física (2015-2016):** Exploração de tópicos aplicados na área.  
+- **Monitor de Matemática Instrumental (2016-2017):** Suporte em cálculos avançados para estudantes.  
+- **Grupo de Estudos de Paleontologia (2016-2018):** Discussão de pesquisas em evolução e fósseis.  
+- **Projeto de Extensão – Laboratório Demonstrativo de Física (2017):** Desenvolvimento de experimentos didáticos. 
+
+### Artigo Acadêmico
+- **Título:** *Atividade prática de aproximação por analogias e experimentação na matemática*  
+  - **Autor:** Germano Rodrigues da Silva  
+  - **Orientador:** Everton Artuso  
+  - [Leia o artigo completo](https://www.ufrgs.br/xveie/wp-content/uploads/2020/04/SILVA-Germano.pdf)
 
 ## Certificados
 
