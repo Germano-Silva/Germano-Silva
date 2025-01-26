@@ -1,17 +1,16 @@
+<div align="center">
+
 # Germano Rodrigues da Silva
 
 **Desenvolvedor Back-end Júnior | Futuro Cientista de Dados**
 
 > "Eu acredito que, às vezes, são as pessoas que ninguém espera nada que fazem as coisas que ninguém consegue imaginar." – Alan Turing
 
+</div>
+
 ## Sobre Mim
 
 Sou um desenvolvedor em início de carreira, com formação em Análise e Desenvolvimento de Sistemas e paixão por ciência e tecnologia. Amo aprender, resolver problemas complexos e criar soluções escaláveis. Meu objetivo atual é crescer como desenvolvedor Back-end e, no futuro, me especializar como Cientista de Dados. Possuo habilidades em **trabalho em equipe**, **resolução de problemas**, **comunicação eficaz** e **pensamento analítico**, que me ajudam a colaborar de maneira eficiente em projetos desafiadores.
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Germano-Silva&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" alt="Germano Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germano-Silva&layout=compact&hide_border=true&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
-</div>
 
 ## **Hard Skills:**
 
@@ -24,6 +23,11 @@ Sou um desenvolvedor em início de carreira, com formação em Análise e Desenv
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Germano-Silva&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" alt="Germano Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Germano-Silva&layout=compact&hide_border=true&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Projetos Destacados
