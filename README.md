@@ -122,15 +122,21 @@ Sou um desenvolvedor em início de carreira, com formação em Análise e Desenv
 
 ## Certificados
 
-### Principais Certificados:
-- [Formação em Ciência de Dados (DNC) – 430 horas (em andamento)](https://github.com/Germano-Silva/Cientista_de_Dados_DNC)
-- [Extensão em Academia Java (UFN) – 198 horas (concluído)](https://github.com/Germano-Silva/Academia_Java_AtoS_UFN)
-- [Bootcamp Québec Java Digital – Concluído](https://github.com/Germano-Silva/BootcampQuebecJavaDigital)
-- [Cursos diversos em Python, Excel Avançado, e Desenvolvimento Web (em andamento)](https://github.com/Germano-Silva/Curso_Python)
+- 📊 [**Formação em Ciência de Dados (DNC)** – 430 horas (em andamento)](https://github.com/Germano-Silva/Cientista_de_Dados_DNC)  
+  - Focado em Python, SQL, Power BI e Machine Learning.
 
----
+- 🐍 [**Cursos diversos em Python, Excel Avançado, e Desenvolvimento Web** (em andamento)](https://github.com/Germano-Silva/Curso_Python)  
+  - Fundamentos em Python, Excel e tecnologias web modernas.
+
+- ☕ [**Extensão em Academia Java (UFN)** – 198 horas (concluído)](https://github.com/Germano-Silva/Academia_Java_AtoS_UFN)  
+  - Desenvolvimento avançado com Java, Spring Boot e APIs REST.
+
+- 🍁 [**Bootcamp Québec Java Digital** – 93 horas (Concluído)](https://github.com/Germano-Silva/BootcampQuebecJavaDigital)  
+  - Curso com foco em Java e Spring Framework, promovido pelo Governo do Québec.
 
 ## Contato
+
+🚀 Ficarei muito feliz em discutir como posso contribuir para sua equipe. Entre em contato!
 
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:germanorodriguesdasilva@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanorodriguessilva/)
