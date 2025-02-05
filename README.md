@@ -142,12 +142,9 @@ Sou um desenvolvedor em início de carreira, com formação em Análise e Desenv
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:germanorodriguesdasilva@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germanorodriguessilva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991366614)
-
 <a href="https://raw.githubusercontent.com/Germano-Silva/Germano-Silva/main/curriculo_germano.pdf" download="curriculo_germano.pdf">
   <img src="https://img.shields.io/badge/%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Baixar Currículo no formato PDF">
-</a>
-<a href="https://raw.githubusercontent.com/Germano-Silva/Germano-Silva/main/curriculo_germano.docx" download="curriculo_germano.docx">
+</a> <a href="https://raw.githubusercontent.com/Germano-Silva/Germano-Silva/main/curriculo_germano.docx" download="curriculo_germano.docx">
   <img src="https://img.shields.io/badge/%20Currículo-Word-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Baixar Currículo no formato Word">
 </a>
-
 </div>
