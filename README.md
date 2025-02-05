@@ -143,3 +143,6 @@ Sou um desenvolvedor em início de carreira, com formação em Análise e Desenv
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Germano-Silva)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543991366614)
 [![Baixar Currículo](https://img.shields.io/badge/Baixar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Germano-Silva/Germano-Silva/blob/main/curriculo_germano.pdf)
+<a href="https://raw.githubusercontent.com/Germano-Silva/Germano-Silva/main/curriculo_germano.pdf" download="curriculo_germano.pdf">
+  <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Baixar Currículo">
+</a>
