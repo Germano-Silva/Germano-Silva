@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor em início de carreira, com formação em Análise e Desenvolvimento de Sistemas e paixão por ciência e tecnologia. Amo aprender, resolver problemas complexos e criar soluções escaláveis. Meu objetivo atual é crescer como desenvolvedor Back-end e, no futuro, me especializar como Cientista de Dados. Possuo habilidades em **trabalho em equipe**, **resolução de problemas**, **comunicação eficaz** e **pensamento analítico**, que me ajudam a colaborar de maneira eficiente em projetos desafiadores.
+Sou um desenvolvedor, com formação em Análise e Desenvolvimento de Sistemas e paixonado por ciência e tecnologia. Amo aprender, resolver problemas complexos e criar soluções escaláveis. Meu objetivo atual é crescer como desenvolvedor Back-end e no futuro me especializar como Cientista de Dados. Possuo habilidades em **trabalho em equipe**, **resolução de problemas**, **comunicação eficaz** e **pensamento analítico**, que me ajudam a colaborar de maneira eficiente em projetos desafiadores.
 
 ## **Hard Skills:**
 
